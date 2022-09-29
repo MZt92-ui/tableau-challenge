@@ -5,7 +5,7 @@
 This analysis has been aimed to find patterns of utilization of Citi Bikes Program before Covid-19. The data period is chosen from 2019.12 to 2020.01 (2 months) as indications. 2 demographic dimensions: Age & Gender, and stations popularity have been covered.
 
 The visualisations are avaliable in the link below:</br>
-https://public.tableau.com/shared/7GTY4N7M2?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/stomile829/viz/TableauAssignment-CitiBikeProgram/Story
 
 The Key Findings & Analysis:
 
