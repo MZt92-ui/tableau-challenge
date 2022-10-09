@@ -9,13 +9,13 @@ Citi Bike operator has made data of trip history with some demographic informati
 
 ## Key Findings & Analysis
 Overall Performance
-Analysis 1: Monthly total trips by customer & subsciber (usertype)
+### Analysis 1: Monthly total trips by customer & subscriber (usertype)
 Demographic info: 
-Analysis 2: Top Age Groups utilising the program & their types (birth-year)
-Analysis 4: Gender & their types (gender)
+### Analysis 2: Top Age Groups utilising the program & their types (birth-year)
+### Analysis 3: Gender & their types (gender)
 Using behaviour: 
-Analysis 3: Peak starting hours for different age groups (starttime) (re dai tu)
-Analysis 4: Map of starting point for durations: showing each station with durations (trup duration)
+### Analysis 4: Peak starting hours for different age groups (starttime) (re dai tu)
+### Analysis 5: Map of starting point for average & std of durations: showing each station with durations (trup duration)
 
 
 
