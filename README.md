@@ -8,15 +8,22 @@ Citi Bike is a privately owned public bicycle sharing system serving the borough
 
 ## Project Scope & Procedure
 This project was to answer below questions:
-1. To understand overall performance of the program in year 2019, including total riding counts, riding time and etc.
-2. To understand users' demographics
-3. To reveal some users' behaviours and understand how the program was utilised
+1. Firstly, to understand overall performance of the program in year 2019, including total riding counts, riding time and etc.
+2. Then to understand users' demographics
+3. Lastly to reveal some users' behaviours and understand how the program was utilised
+
+The key procedures are:
+* **Data extraction & transformation:**
+<br>There are some missing records related to station information; I left them blank without deletion and replacement as they are not wrong records, deletion would impact total counts; also there is no other information to support replacements of these non-numerical values. Then extract information of interets and combine 12 tables into one for further analysis. 
+* **Visualisation & analysis using python**
+* **Create a dashboard in tableau**
 
 ## Dashboard & Summary
 
 ## Key Analysis
-### Analysis 1: Monthly total trips by customer & subscriber (usertype)
-
+### Analysis 1: Monthly Trip No.
+Riding counts from customer & subscriber follow similar pattern, with an upward trend every month til September 2019 and then re
+[!]
 ### Analysis 2: Top Age Groups utilising the program & their types (birth-year)
 
 ### Analysis 3: Gender & their types (gender)
