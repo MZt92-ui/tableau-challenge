@@ -18,17 +18,26 @@ The key procedures are:
 * **Visualisation & analysis using python**
 * **Create a dashboard in tableau**
 
-## Dashboard & Summary
-
+## Dashboard
+![Dashboard](https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/dashboard.jpg)
 ## Key Analysis
 ### Analysis 1: Monthly Total Trips
-Riding counts from customer & subscriber follow similar pattern, with an upward trend every month til September 2019 and then re
+Monthly trips from customer & subscriber follow similar pattern, with an upward trend til September and then drop to the level of beginning of the year.
+
 ![Monly Total Trips](https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/1.jpg)
-### Analysis 2: Top Age Groups utilising the program & their types (birth-year)
-
-### Analysis 3: Gender & their types (gender)
-
-Using behaviour: 
-### Analysis 4: Peak starting hours for different age groups (starttime) (re dai tu)
-
-### Analysis 5: Map of starting point for average & std of durations: showing each station with durations (trup duration)
+### Analysis 2: Top Age Groups
+* For subscriber usertype, age between 30 and 40 make the largest user group; while for customer, it is 50-60 age group.
+* For age group classified as "Other", it includes recorded ages over 80, which is likely untrue input from users, e.g. there are around 8,000 records with age over 120yrs old.
+![Age group](https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/2.jpg)
+### Analysis 3: Total Trips By Gender
+The male is the primary group utillising the program in year 2019, and most of them (92.5%) were adopting membership.
+![Gender](https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/3.jpg)
+### Analysis 4: Peak Hours In A Day
+* For all age groups, trips are peaked in 8am, 5pm & 6pm, which implies the primary application of the program is for the sake of commute.
+* However, customer type show different behaviours, with growing activity since 6am and maintained its peak during 2pm-7pm. 
+![Gender](https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/4.jpg)
+### Analysis 5: Trip Duration Analysis
+The trip duration is extremely right skewed, with median value of 10.25min and over 900K outliers. Based on the map of stations recorded duration over 1day, it shows that:
+* starting stations are scaterred in the serving area;
+* the frequency of extremely long trip durations is considered low, i.e. circle sizes of stations with darker colors are below 20.
+![Trip](https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/5.jpg)
