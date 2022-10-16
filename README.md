@@ -1,10 +1,10 @@
 
 # Project: Citi Bike Program Pre-Covid-19 Performance Analysis
-The project was aimed to find patterns of utilization of Citi Bikes Program before Covid-19 using Python & Tableau. The data period is chosen from 2019.12 to 2020.01 (2 months) as indications. 2 demographic dimensions: Age & Gender, and stations popularity have been covered.
+**The project was aimed to find patterns about how Citi Bikes Program was utilised before Covid-19 specifically in year 2019. The project was prepared for Monash Data Analytics Bootcamp study, with the purpose to apply python, tableau and statistical concepts for real-life datasets.**
 
 ## Citi Bike Program & Dataset
-"Citi Bike is a privately owned public bicycle sharing system serving the boroughs of New York City, firstly introduced in 2013 as an effort to XXX."
-Citi Bike operator has made data of trip history with some demographic information of users availble to the public in a csv format.  
+Citi Bike is a privately owned public bicycle sharing system serving the boroughs of New York City.
+<br>The Citi Bike operator has made monthly riding records availble to the public in csv formats, which is accessible in [Link](https://ride.citibikenyc.com/system-data). The information includes demographic entries, start & end stations, start & end time and etc.  
 
 ## Project Scope & Procedure
 
