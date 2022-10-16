@@ -68717,8 +68717,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station longitude:qk]' field-type='quantitative' max='-8223311.9460195107' min='-8236574.8203861611' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station latitude:qk]' field-type='quantitative' max='4980067.5328628421' min='4967885.871217913' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station longitude:qk]' field-type='quantitative' max='-8217126.7509449478' min='-8241858.7943989625' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station latitude:qk]' field-type='quantitative' max='4985259.1004525078' min='4962543.2564494908' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='header'>
             <format attr='color' data-class='subtotal' value='#000000' />
@@ -69597,6 +69597,29 @@
               </tuple>
             </tuple-reference>
           </mark-label>
+          <mark-label id='8'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields>
+                    <field>[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:month:ok]</field>
+                  </x-fields>
+                  <y-fields>
+                    <field>[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[__tableau_internal_object_id__].[cnt:2019_ana.csv_A74183B658494486A0B9ECE23E3EA1DF:qk]</field>
+                  </y-fields>
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[__tableau_internal_object_id__].[cnt:2019_ana.csv_A74183B658494486A0B9ECE23E3EA1DF:qk]</field>
+                  <field>[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:month:ok]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>2125370</value>
+                <value>6</value>
+              </tuple>
+            </tuple-reference>
+            <label-position x='4' y='-28' />
+          </mark-label>
         </mark-labels>
       </table>
       <simple-id uuid='{E1A66C70-9233-4191-BCA2-7C9E546E98B0}' />
@@ -70384,7 +70407,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='43' />
+      <active id='17' />
       <simple-id uuid='{5DB71477-CDD3-45FF-945E-5C8CB0887522}' />
     </window>
     <window class='worksheet' name='Sheet 7'>
