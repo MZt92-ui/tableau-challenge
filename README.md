@@ -7,6 +7,10 @@ Citi Bike is a privately owned public bicycle sharing system serving the borough
 <br>The Citi Bike operator has made monthly riding records availble to the public in csv formats, which is accessible in [Link](https://ride.citibikenyc.com/system-data). The information includes demographic entries, start & end stations, start & end time and etc.  
 
 ## Project Scope & Procedure
+This project was to answer below questions:
+1. To understand overall performance of the program in year 2019, including total riding counts, riding time and etc.
+2. To understand users' demographics
+3. To reveal some users' behaviours and understand how the program was utilised
 
 ## Dashboard & Summary
 
