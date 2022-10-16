@@ -21,9 +21,9 @@ The key procedures are:
 ## Dashboard & Summary
 
 ## Key Analysis
-### Analysis 1: Monthly Trip No.
+### Analysis 1: Monthly Total Trips
 Riding counts from customer & subscriber follow similar pattern, with an upward trend every month til September 2019 and then re
-[!]
+![Monly Total Trips](https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/1.jpg)
 ### Analysis 2: Top Age Groups utilising the program & their types (birth-year)
 
 ### Analysis 3: Gender & their types (gender)
