@@ -34380,7 +34380,7 @@
             <value>79</value>
             <value>80</value>
           </bin>
-          <bin default-name='false' value='&quot;Other Group&quot;'>
+          <bin default-name='false' value='&quot;Other&quot;'>
             <value>81</value>
             <value>82</value>
             <value>83</value>
@@ -34485,7 +34485,7 @@
               <bucket>&quot;20 - 30&quot;</bucket>
             </map>
             <map to='#9b93c9'>
-              <bucket>&quot;Other Group&quot;</bucket>
+              <bucket>&quot;Other&quot;</bucket>
             </map>
             <map to='#9bc7e4'>
               <bucket>&quot;40 - 50&quot;</bucket>
@@ -68717,8 +68717,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station longitude:qk]' field-type='quantitative' max='-8216680.5088361856' min='-8243206.2575694863' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station latitude:qk]' field-type='quantitative' max='4986158.3636853071' min='4961795.040395448' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station longitude:qk]' field-type='quantitative' max='-8223311.9460195107' min='-8236574.8203861611' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0gqzgpr0qkxt7613sjz4004zl1r4].[none:start station latitude:qk]' field-type='quantitative' max='4980067.5328628421' min='4967885.871217913' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='header'>
             <format attr='color' data-class='subtotal' value='#000000' />
@@ -69126,7 +69126,7 @@
                   <value>79</value>
                   <value>80</value>
                 </bin>
-                <bin default-name='false' value='&quot;Other Group&quot;'>
+                <bin default-name='false' value='&quot;Other&quot;'>
                   <value>81</value>
                   <value>82</value>
                   <value>83</value>
@@ -69841,7 +69841,7 @@
         </zone>
         <zone forceUpdate='true' h='6771' id='72' type-v2='text' w='20410' x='13574' y='25000'>
           <formatted-text>
-            <run bold='true' fontalignment='1' fontcolor='#ffffff' fontname='Trebuchet MS' fontsize='12'>MONTHLY TRIP RECORDS</run>
+            <run bold='true' fontalignment='1' fontcolor='#ffffff' fontname='Trebuchet MS' fontsize='12'>MONTHLY TOTAL TRIPS</run>
           </formatted-text>
         </zone>
         <zone forceUpdate='true' h='6771' id='73' type-v2='text' w='18164' x='64160' y='521'>
@@ -70058,7 +70058,7 @@
                 </zone>
                 <zone forceUpdate='true' h='6771' id='72' type-v2='text' w='20410' x='13574' y='25000'>
                   <formatted-text>
-                    <run bold='true' fontalignment='1' fontcolor='#ffffff' fontname='Trebuchet MS' fontsize='12'>MONTHLY TRIP RECORDS</run>
+                    <run bold='true' fontalignment='1' fontcolor='#ffffff' fontname='Trebuchet MS' fontsize='12'>MONTHLY TOTAL TRIPS</run>
                   </formatted-text>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -70256,7 +70256,7 @@
       </cards>
       <simple-id uuid='{C9A6E4FC-4C3B-4855-BB6F-903DDE3F6390}' />
     </window>
-    <window class='worksheet' maximized='true' name='overall_monthly'>
+    <window class='worksheet' name='overall_monthly'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -70367,7 +70367,7 @@
       </viewpoint>
       <simple-id uuid='{F415A4B4-A586-41E6-BBCC-B212991D6535}' />
     </window>
-    <window class='dashboard' name='Dashboard 1'>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
       <viewpoints>
         <viewpoint name='Sheet 7'>
           <zoom type='entire-view' />
@@ -70384,7 +70384,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='43' />
       <simple-id uuid='{5DB71477-CDD3-45FF-945E-5C8CB0887522}' />
     </window>
     <window class='worksheet' name='Sheet 7'>
