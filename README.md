@@ -1,6 +1,6 @@
 
 # Project: Citi Bike Program Pre-Covid-19 Performance Analysis
-**The project was aimed to find patterns about how Citi Bike Program was utilised before Covid-19 specifically in year 2019. The project was prepared for Monash Data Analytics Bootcamp study, with the purpose to apply python, tableau and statistical concepts for real-life datasets.**
+**The project aimed to find patterns in how Citi Bike Program was utilized before Covid-19 specifically in the year 2019. The project was prepared for the Monash Data Analytics Bootcamp study, with the purpose to apply python, tableau, and statistical concepts for real-life datasets.**
 
 ## Citi Bike Program & Dataset
 Citi Bike is a privately owned public bicycle sharing system serving the boroughs of New York City.
