@@ -1,10 +1,10 @@
 
-# Project: Citi Bike Program Pre-Covid-19 Performance Analysis
+# Project: Citi Bike Program Pre-Covid-19 Performance
 **The project aimed to find patterns in how Citi Bike Program was utilized before Covid-19 specifically in the year 2019. The project was prepared for the Monash Data Analytics Bootcamp study, with the purpose to apply python, tableau, and statistical concepts for real-life datasets.**
 
 ## Citi Bike Program & Dataset
 Citi Bike is a privately owned public bicycle sharing system serving the boroughs of New York City.
-<br>The Citi Bike operator has made monthly riding records available to the public in csv formats, which is accessible in [Link](https://ride.citibikenyc.com/system-data). The information includes demographic entries, start & end stations, start & end time and etc.  
+<br>The Citi Bike operator has made monthly riding records available to the public in csv formats, which is accessible in [Link](https://ride.citibikenyc.com/system-data). The information includes demographic entries, start & tilend stations, start & end time and etc.  
 
 ## Project Scope & Procedure
 This project was to answer below questions:
@@ -26,7 +26,7 @@ Below is an screenshot of what was created in tableau:
 
 ### Analysis 1: Monthly Total Trips
 <img align="left" width="400" height="250" src="https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/1.jpg">
-<br><br>Monthly trips from customer & subscriber follow similar pattern, with an upward trend til September and then drop to the level of beginning of the year.
+<br><br>Monthly trips from customer & subscriber follow similar pattern, with an upward trend till September and then drop to the level of beginning of the year.
 
 ### <br><br><br><br><br>Analysis 2: Top Age Groups
 <img align="left" width="400" height="280" src="https://github.com/MZt92-ui/tableau-challenge/blob/main/analysis/2.jpg">
@@ -51,5 +51,5 @@ Below is an screenshot of what was created in tableau:
 <br>
 
 The trip duration is extremely right skewed, with median value of 10.25min and over 900K outliers. Based on the map of stations recorded duration over 1day, it shows that:
-* these stations are scatterred in the serving area;
+* these stations are scattered in the serving area;
 * the frequency of extremely long trip is considered low, i.e. circle sizes of stations with darker colors are below 20.
